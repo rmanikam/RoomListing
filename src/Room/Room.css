@@ -1,0 +1,103 @@
+
+.videoContainer
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:50px;
+    flex-direction: column;
+}
+
+.video
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:50px;
+    flex-direction: column;
+}
+.roomType
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bedType
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.adultOccupancy
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.priceInfo
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Taxes
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.promoList
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.adult_occupancy
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.priceContainer
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.totalPrice
+{
+    margin-right:10px;
+}
+.discountedPrice
+{
+    margin-right:10px;
+}
+.loading
+{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.outerPriceContainer
+{
+    display:flex;
+    justify-content: space-evenly;
+}
+.roomInformation
+{
+    display:flex;
+   flex-direction: row;
+   margin-left: 10px;
+   margin-top:30px;
+   flex-wrap: wrap;
+}
+.variant
+{
+    border:1px solid black;
+    margin-right: 10px;
+    margin-left:10px;
+    margin-bottom:10px;
+}
